@@ -1,2 +1,10 @@
-# Blare_Alarm_v1
-ESP32-C3 hardware design for Blare Alarm. Cleaned custom footprint paths using relative linking to fix review errors. Separated active source code from production assets. Contains 3D CAD models, Arduino firmware, KiCad design files, and a single gerbers.zip archive ready for manufacturing. Shielded from local backup files via .gitignore.
+# Blare_Alarm_v1 - ESP32-C3 Hardware Project
+
+Welcome to the complete repository for the Blare Alarm project. This project a fully custom hardware layout driven by an ESP32-C3 microcontroller, custom enclosure CAD models, and production-ready manufacturing files.
+
+---
+
+## 📸 Project Showcase
+
+### Overall Clock Design
+
