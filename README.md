@@ -4,7 +4,7 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 
 ---
 
-## 📸 Project Showcase
+## Project Showcase
 
 ### Overall Clock Design
 ![Overall Clock](images/COMP.png)
@@ -20,7 +20,7 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 
 ---
 
-## 📃 Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Component Description | Quantity | Package /Type | Notes |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 
 ---
 
-## 📂 Repository Organization
+## Repository Organization
 * **`CAD/`**: Core 3D chassis design models.
 * **`Firmware/`**: Target Arduino application source code.
 * **`PCB/`**: Portable KiCad source designs with isolated, project-relative footprint libraries.
