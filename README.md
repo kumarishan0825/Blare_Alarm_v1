@@ -34,8 +34,8 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 ---
 
 ## Repository Organization
-* **`CAD/`**: Core 3D chassis design models.
-* **`Firmware/`**: Target Arduino application source code.
-* **`PCB/`**: Portable KiCad source designs with isolated, project-relative footprint libraries.
-* **`Production/`**: Factory-ready `gerbers.zip` manufacturing archive.
+* **CAD/**: Core 3D chassis design models.
+* **Firmware/**: Target Arduino application source code.
+* **PCB/**: Portable KiCad source designs with isolated, project-relative footprint libraries.
+* **Production/**: Factory-ready "gerbers.zip" manufacturing archive.
 
