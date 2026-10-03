@@ -31,11 +31,9 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 | 2.25in TFT Display | 1 | Screen Module | Main clock screen interface |
 | Custom Enclosure Case | 1 | 3D Printed (STEP Model) | Physical shell designed in Onshape |
 
----
-
 ## Repository Organization
-* **CAD/**: Core 3D chassis design models.
-* **Firmware/**: Target Arduino application source code.
-* **PCB/**: Portable KiCad source designs with isolated, project-relative footprint libraries.
-* **Production/**: Factory-ready "gerbers.zip" manufacturing archive.
+* CAD/: Core 3D design models.
+* Firmware/: Arduino application source code.
+* PCB/: Portable KiCad source designs with project related footprint libraries.
+* Production/: Factory-ready "gerbers.zip" manufacturing archive.
 
