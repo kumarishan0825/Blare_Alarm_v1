@@ -1,18 +1,18 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_ST7789.h>
 #include <SPI.h>
-#define TFT_SCLK 9    // D9  -> display SCL
-#define TFT_MOSI 10   // D10 -> display SDA
-#define TFT_RST  8    // D8
-#define TFT_DC   6    // D4
-#define TFT_CS   7    // D5
-#define TFT_BL   21   // D6
+#define TFT_SCLK 9    
+#define TFT_MOSI 10   
+#define TFT_RST  8    
+#define TFT_DC   6    
+#define TFT_CS   7    
+#define TFT_BL   21   
 #define BUZZER_PIN 20   
 #define BTN1_PIN   2    
 #define BTN2_PIN   3    
 #define BTN3_PIN   4    
 #define BTN4_PIN   5    
-#define BUZZER_PASSIVE 0   // 0 = active buzzer, 1 = passive buzzer (uses tone())
+#define BUZZER_PASSIVE 0   
 #define START_HOUR 7
 #define START_MIN  42
 
