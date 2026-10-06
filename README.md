@@ -32,8 +32,8 @@ Welcome to the complete repository for the Blare Alarm project. This project a f
 | Custom Enclosure Case | 1 | 3D Printed (STEP Model) | Physical shell designed in Onshape |
 
 ## Repository Organization
-* CAD/: Core 3D design models.
-* Firmware/: Arduino application source code.
-* PCB/: Portable KiCad source designs with project related footprint libraries.
-* Production/: Factory-ready "gerbers.zip" manufacturing archive.
+1)CAD/: Core 3D design models.
+2)Firmware/: Arduino application source code.
+3)PCB/: Portable KiCad source designs with project related footprint libraries.
+4)Production/: Factory-ready "gerbers.zip" manufacturing archive.
 
